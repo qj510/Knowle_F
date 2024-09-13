@@ -1,0 +1,9 @@
+{
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_password": "root",
+    "db_name": "data_graph",
+    "table_name": "entities",
+    "local_model_path": "C:\\Users\\56934\\.cache\\modelscope\\hub\\iic\\nlp_structbert_sentence-similarity_chinese-large",
+    "json_data_path": "entities.json"
+}
